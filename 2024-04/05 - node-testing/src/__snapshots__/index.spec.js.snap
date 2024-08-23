@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user test case 1 1`] = `
+Object {
+  "age": 36,
+  "color": "black",
+  "flags": Object {
+    "designer": false,
+    "developer": true,
+  },
+  "username": "nik",
+}
+`;
