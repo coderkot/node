@@ -1,0 +1,19 @@
+{
+  "name": "example-2024-04-26",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo started",
+    "start3331231231": "echo started",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
