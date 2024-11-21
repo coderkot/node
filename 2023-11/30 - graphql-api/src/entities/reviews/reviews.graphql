@@ -1,4 +1,0 @@
-type Review {
-  rate: Float!
-  comment: String
-}
